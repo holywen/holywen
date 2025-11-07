@@ -38,6 +38,12 @@ Here you’ll find a selection of my GitHub projects that showcase my skills and
 - Provides seamless automation of ServiceNow tasks within CloudBees CD pipelines  
 - Highlights: enterprise service-management automation, end-to-end CI/CD tooling  
 
+### Code contribution to Mozilla Thunderbird email client
+- [Chinese newsgroup names are not readable](https://bugzilla.mozilla.org/show_bug.cgi?id=126453)
+- C++
+
+### Mozilla Firefox browser l10n leader for Simplified Chinese lanuage
+
 ---
 
 ## 🚀 My Skills & Areas of Focus  
