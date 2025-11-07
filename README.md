@@ -52,7 +52,7 @@ Here you’ll find a selection of my GitHub projects that showcase my skills and
 - [Chinese newsgroup names are not readable](https://bugzilla.mozilla.org/show_bug.cgi?id=126453)
 - C++
 
-### Mozilla Firefox browser l10n leader for Simplified Chinese lanuage
+### [Mozilla Firefox browser l10n leader for Simplified Chinese lanuage](https://wiki.mozilla.org/L10n:Teams:zh-CN)
 
 ### ACM Express - WeChat Official Account Project
 **ACM Express** is a comprehensive WeChat Official Account (Service Account) application developed in PHP for package tracking, shipping calculations, and member management. The system integrates with ACM Express (yd-cargo.com) logistics API and provides both customer-facing H5 pages and a full-featured admin backend.
