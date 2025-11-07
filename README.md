@@ -44,6 +44,27 @@ Here you’ll find a selection of my GitHub projects that showcase my skills and
 
 ### Mozilla Firefox browser l10n leader for Simplified Chinese lanuage
 
+### ACM Express - WeChat Official Account Project
+**ACM Express** is a comprehensive WeChat Official Account (Service Account) application developed in PHP for package tracking, shipping calculations, and member management. The system integrates with ACM Express (yd-cargo.com) logistics API and provides both customer-facing H5 pages and a full-featured admin backend.
+**Key Features:**
+- 📦 Express tracking with auto-company detection
+- 📋 User package management with member binding system
+- 🚚 Taispeed shipping calculator (land/sea freight)
+- 👥 Admin backend with Excel import/export
+- 🔔 WeChat template message notifications
+- 🔐 Dual-mode operation (test mode & production mode)
+### **Technology Stack**
+
+| Component | Technology | Purpose |
+|-----------|-----------|---------|
+| **Backend** | PHP 8.4 | Application logic |
+| **Framework** | EasyWeChat 6.x | WeChat integration |
+| **Database** | PostgreSQL | Persistent data storage |
+| **Cache** | Redis | Query optimization (1-8 hour TTL) |
+| **Frontend** | Vanilla JS/HTML5 | Mobile-responsive H5 pages |
+| **Package Manager** | Composer | Dependency management |
+| **File Processing** | PhpSpreadsheet | Excel import/export |
+
 ---
 
 ## 🚀 My Skills & Areas of Focus  
