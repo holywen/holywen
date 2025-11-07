@@ -4,6 +4,16 @@ Full-stack Engineer | DevOps & CI/CD Enthusiast
 I love building end-to-end web applications, automating pipelines, and improving developer workflows.  
 Here you’ll find a selection of my GitHub projects that showcase my skills and interests.
 
+## 🏅 Certifications
+
+| Certificate | Issued By | Verification |
+|--------------|-----------|---------------|
+| 🧩 **CloudBees CI Associate** | CloudBees | [Verify](https://certificates.cloudbees.com/c345a5e8-334a-42b9-ab31-a1e9dc90d3c6) |
+| ⚙️ **CloudBees CD/RO Essentials** | CloudBees | [Verify](https://certificates.cloudbees.com/daab3773-ea50-416c-8849-81c9755b8844) |
+| ☸️ **Certified Kubernetes Administrator (CKA)** | The Linux Foundation / CNCF | — |
+| 🧱 **Certified Kubernetes Application Developer (CKAD)** | The Linux Foundation / CNCF | — |
+| 🌍 **HashiCorp Certified: Terraform Associate** | HashiCorp | — |
+
 ---
 
 ## 🔧 Featured Projects
