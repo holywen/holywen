@@ -1,5 +1,5 @@
 # Hi, I’m Shaohua Wen 👋  
-Full-stack Engineer | DevOps & CI/CD Enthusiast | Opensource Enthusiast 
+Full-stack Engineer | DevSecOps & CI/CD Enthusiast | Opensource Enthusiast 
 
 I love building end-to-end web applications, automating pipelines, and improving developer workflows.  
 Here you’ll find a selection of my GitHub projects that showcase my skills and interests.
