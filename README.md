@@ -80,7 +80,7 @@ Here you’ll find a selection of my GitHub projects that showcase my skills and
 ## 🚀 My Skills & Areas of Focus  
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS  
 - **Backend / Cloud & DevOps**: Node.js / FastAPI, Docker, Kubernetes (EKS), Terraform, GitHub Actions  
-- **CI/CD & Workflows**: CloudBees CD, pipeline plugins, enterprise integrations  
+- **CI/CD & Workflows**: Jenkins, CloudBees CI/CD, pipeline plugins, enterprise integrations  
 - **Databases & Data**: MongoDB, PostgreSQL, Real-time feedback systems  
 - **Tooling & Productivity**: Web utilities, mobile-friendly dev tools, automation scripts  
 
