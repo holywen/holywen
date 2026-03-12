@@ -18,7 +18,7 @@ Here you’ll find a selection of my GitHub projects that showcase my skills and
 
 ## 🔧 Featured Projects
 
-### [typingtoy](https://github.com/holywen/typingtoy)  
+### [VibeCoding][typingtoy](https://github.com/holywen/typingtoy)  
 **A modern, production-ready touch-typing practice website**  
 - Built with Next.js, TypeScript, MongoDB and Tailwind CSS  
 - Helps users learn to type faster and more accurately through progressive lessons & speed tests  
